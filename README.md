@@ -2,7 +2,7 @@
 Educational website explaining physics concepts in a simple way.
 
 ## 🌍 Live Demo
-https://yourusername.github.io/physics-site/
+https://mr-danix.github.io/Physics/
 
 ## 🚀 Features
 - Topic explanations
