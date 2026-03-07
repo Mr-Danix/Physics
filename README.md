@@ -16,6 +16,6 @@ https://mr-danix.github.io/Physics/
 
 HTML, CSS, JavaScript
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Feel free to fork the repo, create issues, or submit pull requests. Suggestions and improvements are always welcome!
