@@ -13,4 +13,5 @@ https://mr-danix.github.io/Physics/
 - Example problems
 
 ## 🛠 Tech Used
+
 HTML, CSS, JavaScript
