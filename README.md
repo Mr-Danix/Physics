@@ -1,6 +1,6 @@
 # Physics
 
-Educational website explaining physics concepts in a simple way. 
+Educational website explaining physics concepts in a simple way.  
 
 ## 🌍 Live Demo
 
