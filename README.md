@@ -7,6 +7,7 @@ Educational website explaining physics concepts in a simple way.
 https://mr-danix.github.io/Physics/
 
 ## 🚀 Features
+
 - Topic explanations
 - Formula section
 - Example problems
